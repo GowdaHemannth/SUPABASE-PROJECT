@@ -11,3 +11,5 @@
 // ThenI Got to Know Through Errors 
 
 // Finally Fixed It 
+
+//Yaa One More Important Thing i Got Know was In Vercel if Enabled Vercel Autentication then the User Should Login Into Vercel then Use it Then ,, i Got To Know that The Vercel protection should Be Off 
